@@ -71,15 +71,18 @@
 </a> &nbsp;&nbsp;
 <a href="https://github.com/saurabhmaurya45/registration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=registration&theme=midnight-purple" />
-</a> <br>
+</a> <br>&nbsp;&nbsp;
 <a href="https://github.com/saurabhmaurya45/Object_detection_with_tf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=Object_detection_with_tf&theme=midnight-purple" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/saurabhmaurya45/kumbh_mitra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=kumbh_mitra&theme=midnight-purple" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a> <br>&nbsp;&nbsp;
 <a href="https://github.com/saurabhmaurya45/library-management-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=library-management-system&theme=midnight-purple" />
+</a>&nbsp;&nbsp;
+ <a href="https://github.com/saurabhmaurya45/TextUtils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=TextUtils&theme=midnight-purple" />
 </a>
  <br>
  <br>
