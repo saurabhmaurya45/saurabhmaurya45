@@ -1,6 +1,6 @@
 <h1 align="center">Hi ,I'm Saurabh Maurya  👋</h1>
 
-<h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
+<h3 align="left">A full stack web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmaurya45" alt="Saurabh Maurya"/></a></p>
@@ -22,12 +22,10 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <!--<a href="https://dev.to/codersunny" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codersunny" height="30" width="40" /></a>&nbsp;-->
-<a href="https://twitter.com/sunnyjr_11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny_jr11" height="30" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sushil-pandey-8ab638209/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-pandey-8ab638209" height="30" width="40" /></a>&nbsp;
-<a href="https://www.instagram.com/theamiable_sunny/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theamiable_sunny" height="30" width="40" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCCNIqsl_s-yjZJYECon4uWA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sunny vlogs" height="30" width="40" /></a>&nbsp;
-<a href="https://www.codechef.com/users/sunny812" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codevision" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/sengersunny448" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sengersunny448" height="30" width="40" /></a>
+<a href="https://twitter.com/Saurabh52917247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny_jr11" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/saurabhmaurya45/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-pandey-8ab638209" height="30" width="40" /></a>&nbsp;
+<a href="https://www.instagram.com/saurabhmaurya._/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theamiable_sunny" height="30" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/tgtsaurabhmaury1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sengersunny448" height="30" width="40" /></a>
 </p> 
 <hr>
 
@@ -44,10 +42,10 @@
 
 <hr>
 <!-- support section start from here  -->
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codERSunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codERSunny" /></a><a href="https://ko-fi.com/codersunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codersunny" /></a></p><br><br>
-
+-->
 <!-- support section end here  -->
 
 <hr>
@@ -68,11 +66,20 @@
 
  <h3 align="centre"> Top repositary <h3>
  &nbsp;&nbsp;
-<a href="https://github.com/codERSunny812/travelblog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelblog&theme=midnight-purple" />
+<a href="https://github.com/saurabhmaurya45/myAwesomeCart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=myAwesomeCart&theme=midnight-purple" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/codERSunny812/travelWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelWeb&theme=midnight-purple" />
+<a href="https://github.com/saurabhmaurya45/registration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=registration&theme=midnight-purple" />
+</a> <br>
+<a href="https://github.com/saurabhmaurya45/Object_detection_with_tf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=Object_detection_with_tf&theme=midnight-purple" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/saurabhmaurya45/kumbh_mitra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=kumbh_mitra&theme=midnight-purple" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/saurabhmaurya45/library-management-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhmaurya45&repo=library-management-system&theme=midnight-purple" />
 </a>
  <br>
  <br>
@@ -80,8 +87,8 @@
  <br>
  <br>
  <p>
-  <i>“Ruby is rubbish! PHP is phpantastic!”</i>
-  <i> – Nikita Popov</i>
+  <i>“Time, Tide and JavaScript waits for none”</i>
+  <i></i>
  </p>
  
 
