@@ -22,11 +22,11 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <!--<a href="https://dev.to/codersunny" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codersunny" height="30" width="40" /></a>&nbsp;-->
-<a href="https://twitter.com/Saurabh52917247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunny_jr11" height="30" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/saurabhmaurya45/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-pandey-8ab638209" height="30" width="40" /></a>&nbsp;
-<a href="https://www.instagram.com/saurabhmaurya._/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theamiable_sunny" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/tgtsaurabhmaury1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sengersunny448" height="30" width="40" /></a>
-</p> 
+<a href="https://twitter.com/Saurabh52917247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh_maurya" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/saurabhmaurya45/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhmaurya45" height="30" width="40" /></a>&nbsp;
+<a href="https://www.instagram.com/saurabhmaurya._/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@saurabhmaurya._" height="30" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/tgtsaurabhmaury1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tgtsaurabhmaurya1" height="30" width="40" /></a>-->
+</p>
 <hr>
 
 
